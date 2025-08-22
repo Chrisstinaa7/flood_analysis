@@ -29,8 +29,8 @@ It demonstrates a simple **ETL pipeline** and generates insights such as the mos
 
 Following were the results:  
 
-![Affected Population](charts/total_affected_population.png)  
-![Top 5 Houses Damaged](charts/top5_houses_damaged.png)  
+![Affected Population](https://github.com/Chrisstinaa7/flood_analysis/blob/main/Pakistan_Floods/charts/total_affected_population.png)  
+![Top 5 Houses Damaged](https://github.com/Chrisstinaa7/flood_analysis/blob/main/Pakistan_Floods/charts/top5_houses_damaged.png)  
 
 ---
 
